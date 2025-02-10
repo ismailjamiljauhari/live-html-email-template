@@ -17,10 +17,10 @@ export const metadata = {
   description:
     "Live HTML email editor with real-time preview. Create, edit, and test responsive email templates effortlessly.",
   keywords: "HTML email editor, live preview, responsive email templates",
-  author: "Your Name",
-  url: "https://yourwebsite.com",
+  author: "Ismail Jamil Jauhari",
+  url: "https://ismailjamil-live-html-template.vercel.app",
   image: "/images/preview.png",
-  metadataBase: new URL('https://acme.com'),
+  metadataBase: new URL('ismailjamil-live-html-template.vercel.app'),
   openGraph: {
     images: '/og-image.png',
   },
