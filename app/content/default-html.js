@@ -33,9 +33,9 @@ const defaultHTML = `<!doctype html>
                   <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                     <tr>
                       <td>
-                        <p>👋&nbsp; Welcome to Postdrop. A simple tool to help developers with HTML email.</p>
+                        <p>👋&nbsp; Welcome to Ismail Jamil Playground. A simple tool to help developers with HTML email.</p>
                         <p>✨&nbsp; HTML email templates are painful to build. So instead of spending hours or days trying to make your own, just use this template and call it a day.</p>
-                        <p>⬇️&nbsp; Add your own content then download and copy over to your codebase or ESP. Postdrop will inline the CSS for you to make sure it doesn't fall apart when it lands in your inbox.</p>
+                        <p>⬇️&nbsp; Add your own content then download and copy over to your codebase or ESP. Ismail Jamil Playground will inline the CSS for you to make sure it doesn't fall apart when it lands in your inbox.</p>
                         <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="btn btn-primary">
                           <tbody>
                             <tr>
