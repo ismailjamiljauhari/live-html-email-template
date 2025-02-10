@@ -20,7 +20,7 @@ export const metadata = {
   author: "Ismail Jamil Jauhari",
   url: "https://ismailjamil-live-html-template.vercel.app",
   image: "/images/preview.png",
-  metadataBase: new URL('ismailjamil-live-html-template.vercel.app'),
+  metadataBase: new URL('https://ismailjamil-live-html-template.vercel.app'),
   openGraph: {
     images: '/og-image.png',
   },
