@@ -19,10 +19,10 @@ export const metadata = {
   keywords: "HTML email editor, live preview, responsive email templates",
   author: "Ismail Jamil Jauhari",
   url: "https://ismailjamil-live-html-template.vercel.app",
-  image: "/images/og-image.png",
+  image: "/images/og-image.jpg",
   metadataBase: new URL('https://ismailjamil-live-html-template.vercel.app'),
   openGraph: {
-    images: '/images/og-image.png',
+    images: '/images/og-image.jpg',
   },
 };
 
