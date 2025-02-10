@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Live HTML Email Templates - Edit & Preview",
+  title: "Edit & Preview HTML Email Templates - Ismail Jamil Jauhari",
   description:
     "Live HTML email editor with real-time preview. Create, edit, and test responsive email templates effortlessly.",
   keywords: "HTML email editor, live preview, responsive email templates",
