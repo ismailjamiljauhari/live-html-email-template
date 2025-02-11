@@ -21,11 +21,11 @@ export const metadata = {
   creator: 'Ismail Jamil Jauhari',
   publisher: 'Ismail Jamil Jauhari',
   url: "https://email-template.ismailjamil.my.id",
-  image: "/images/og-image.jpg",
+  image: "/images/og-image.webp",
   metadataBase: new URL('https://email-template.ismailjamil.my.id'),
   openGraph: {
     siteName: 'Edit & Preview HTML Email Templates - Ismail Jamil Jauhari',
-    images: '/images/og-image.jpg',
+    images: '/images/og-image.webp',
     description: 'Live HTML email editor with real-time preview. Create, edit, and test responsive email templates effortlessly.',
     type: 'website',
   },
