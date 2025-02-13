@@ -14,7 +14,7 @@ const defaultHTML = `<!doctype html>
             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
               <tr>
                 <td class="align-center" width="100%">
-                  <a href="https://www.ismailjamil.my.id">
+                  <a href="https://www.ismailjamil.com">
                     <img src="/images/sample-logo.png" alt="Sample Image" width="200" />
                   </a>
                 </td>
@@ -67,12 +67,12 @@ const defaultHTML = `<!doctype html>
                 <tr>
                   <td class="content-block">
                     <span class="apple-link">Text sample</span>
-                    <br> And <a href="https://ismailjamil.my.id">Subscribe link</a> here.
+                    <br> And <a href="https://ismailjamil.com">Subscribe link</a> here.
                   </td>
                 </tr>
                 <tr>
                   <td class="content-block powered-by">
-                    Powered by <a href="https://ismailjamil.my.id">Ismail Jamil</a>.
+                    Powered by <a href="https://ismailjamil.com">Ismail Jamil</a>.
                   </td>
                 </tr>
               </table>

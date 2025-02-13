@@ -20,9 +20,9 @@ export const metadata = {
   author: "Ismail Jamil Jauhari",
   creator: 'Ismail Jamil Jauhari',
   publisher: 'Ismail Jamil Jauhari',
-  url: "https://email-template.ismailjamil.my.id",
+  url: "https://email-template.ismailjamil.com",
   image: "/images/og-image.webp",
-  metadataBase: new URL('https://email-template.ismailjamil.my.id'),
+  metadataBase: new URL('https://email-template.ismailjamil.com'),
   openGraph: {
     siteName: 'Edit & Preview HTML Email Templates - Ismail Jamil Jauhari',
     images: '/images/og-image.webp',
